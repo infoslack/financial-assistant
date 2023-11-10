@@ -1,8 +1,10 @@
-## FinGPT assistant - using OpenAI function calling and retrieval
+## OpenAI function calling and retrieval for a financial advisor
+
+Idea: [FinGPT](https://arxiv.org/abs/2306.06031) assistant - using OpenAI function calling and retrieval
 
 Setup:
 
-Edit `.env`` and insert OpenAI API key,
+Edit `.env` and insert OpenAI API key,
 then install the dependencies:
 ```
 pip install -r requirements.txt
